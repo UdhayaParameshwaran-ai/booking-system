@@ -99,10 +99,6 @@ http://localhost:5000/
 
 ---
 
-<pre><code>## 📬 API Endpoints Overview | Method | Endpoint | Access | Description | |--------|-------------------------------|------------|---------------------------| | POST | /api/auth/register | Public | Register new user | | POST | /api/auth/login | Public | Login and get token | | POST | /api/services | Provider | Create a service | | GET | /api/services | Public | View all services | | PUT | /api/services/:id | Provider | Update a service | | DELETE | /api/services/:id | Provider | Delete a service | | POST | /api/bookings | Customer | Create a booking | | GET | /api/bookings/my | Customer | View my bookings | | GET | /api/bookings/provider | Provider | View provider bookings | | PATCH | /api/bookings/:id/cancel | Customer | Cancel a booking | | GET | /api/admin/users | Admin | View all users | | DELETE | /api/admin/user/:id | Admin | Delete user | | GET | /api/admin/analytics | Admin | View analytics overview | </code></pre>
-
----
-
 ## 🛠️ Future Improvements
 
 - Add Payment Gateway Integration (Stripe, PayPal)
