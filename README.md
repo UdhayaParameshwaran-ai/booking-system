@@ -115,6 +115,6 @@ http://localhost:5000/
 
 ## 🧑‍💻 Author
 
-Your Name - @UdhayaParameshwaran-ai
+@UdhayaParameshwaran-ai
 
 ---
